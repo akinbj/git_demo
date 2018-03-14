@@ -1,0 +1,11 @@
+total 40
+-rw-rw-r-- 1 cse2016a cse2016a   15 Jan 15 10:55 a.txt
+-rw-rw-r-- 1 cse2016a cse2016a   51 Jan 15 10:58 b.txt
+-rw-rw-r-- 1 cse2016a cse2016a   15 Jan 15 11:15 c.txt
+-rw-rw-r-- 1 cse2016a cse2016a   45 Jan 15 11:20 f.txt
+drwxrwxr-x 2 cse2016a cse2016a 4096 Jan 15 10:27 one
+-rw-r--r-- 1 cse2016a cse2016a 2547 Jan 15 11:42 q
+-rw-rw-r-- 1 cse2016a cse2016a   15 Jan 15 11:25 t1.txt
+-rw-rw-r-- 1 cse2016a cse2016a   15 Jan 15 11:28 t2.txt
+d--------- 2 cse2016a cse2016a 4096 Jan 15 10:15 two
+-rw-rw-r-- 1 cse2016a cse2016a   24 Jan 15 11:29 x.txt
